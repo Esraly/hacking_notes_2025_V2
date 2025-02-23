@@ -1,13 +1,15 @@
 ---
-#### Description
+### Descripción:
+```
 What is 0x3D (base 16) in decimal (base 10)?
+```
 
-#### Hints 
+### Pistas:  
 ```
 1.- Submit your answer in our flag format. For example, if your answer was '22', you would submit 'picoCTF{22}' as the flag.
 ```
 
-#### Solución 1.
+### Solución 1:
 ###### python
 ```
 Esraly-picoctf@webshell:~$ python
@@ -17,12 +19,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 61
 ```
 
-#### Solución 2.
+### Solución 2:
 ###### Cyberchef: 
 ```
 input: 0x3D
 recipe: from Hex - to decimal
 output: 61
+```
+
+### Bandera:
+```
+picoCTF{61}
 ```
 
 #### Referencias

@@ -1,13 +1,15 @@
 ---
-#### Description
+### Descripción:
+```
 Can you convert the number 42 (base 10) to binary (base 2)?
+```
 
-#### Hints 
+### Pistas: 
 ```
 1.- Submit your answer in our competition's flag format. For example, if your answer was '11111', you would submit 'picoCTF{11111}' as the flag.
 ```
 
-#### Solución 1.
+### Solución 1:
 ###### python
 ```
 pypEsraly-picoctf@webshell:~$ python
@@ -17,12 +19,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 '101010'
 ```
 
-#### Solución 2.
+### Solución 2:
 ###### Cyberchef: 
 ```
 input: 42
 recipe: from decimal - to binary (byte lenght: 6)
 output: 101010
+```
+
+### Bandera:
+```
+picoCTF{101010}
 ```
 
 #### Referencias

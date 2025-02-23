@@ -1,11 +1,15 @@
 ---
-#### Description
+### Descripción:
+```
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
+```
 
-#### hint:
-	1.- Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
+### Pistas: 
+```
+1.- Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
+```
 
-#### Solución 1.
+### Solución 1:
 ###### Python
 ```
 Esraly-picoctf@webshell:~$ python
@@ -15,7 +19,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 'p'
 ```
 
-#### Solución 2.
+### Solución 2:
 ###### Cyberchef: 
 ```
 input: 0x70
@@ -23,5 +27,10 @@ recipe: from hex
 output:p
 ```
 
-#### Referencias
+### Bandera:
+```
+picoCTF{p}
+```
+
+### Referencias
 [Cyberchef](https://gchq.github.io/CyberChef/#recipe=From_Hex('0x')&input=MHg3MA)
