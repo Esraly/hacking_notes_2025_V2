@@ -1,84 +1,41 @@
 {
   "main": {
-    "id": "dac1907ad4a9c45d",
+    "id": "c871261549688215",
     "type": "split",
     "children": [
       {
-        "id": "42202c8430617ec0",
+        "id": "56fea1d8b78da869",
         "type": "tabs",
         "children": [
           {
-            "id": "45f1ff46104a9fa3",
+            "id": "e46afbd8a4383bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General skills/Tareas/07 - collaborative development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - collaborative development"
-            }
-          },
-          {
-            "id": "709f5325f63f9f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General skills/Tareas/08 - binary search.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 - binary search"
-            }
-          },
-          {
-            "id": "df3d93615e3c81b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General skills/Tareas/09 -binhexa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 -binhexa"
-            }
-          },
-          {
-            "id": "1567fb5ac17b7b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General skills/Tareas/06 - blame game.md",
+                "file": "picoCTF/General skills/Actividades/36 - Client-side-again.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - blame game"
+              "title": "36 - Client-side-again"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eebe3ae18fc0ac01",
+    "id": "2fd2fa4f83580184",
     "type": "split",
     "children": [
       {
-        "id": "eb412241515f835c",
+        "id": "142749e317706a49",
         "type": "tabs",
         "children": [
           {
-            "id": "d25cc128cc67264a",
+            "id": "c455a675f60aef67",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,12 +48,12 @@
             }
           },
           {
-            "id": "c527599561fb8a3d",
+            "id": "17909552ff5bab25",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fundamentos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +65,7 @@
             }
           },
           {
-            "id": "e1c3618bebf28160",
+            "id": "db4dbb1b2bbe6b74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b9b990190e1d71b2",
+    "id": "f06a6c552d090f4b",
     "type": "split",
     "children": [
       {
-        "id": "61f93d38bd7d3298",
+        "id": "3e3fb76219952eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "a99e6bb0378612f1",
+            "id": "15412f100d4ed313",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/General skills/Tareas/04 - committee issue.md",
+                "file": "picoCTF/General skills/Actividades/20 - First Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 04 - committee issue"
+              "title": "Enlaces entrantes de 20 - First Find"
             }
           },
           {
-            "id": "6c8582c1c79cb852",
+            "id": "adbf7fed294de64f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/General skills/01 - Lets Warm Up.md",
+                "file": "picoCTF/General skills/Actividades/20 - First Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 01 - Lets Warm Up"
+              "title": "Enlaces salientes de 20 - First Find"
             }
           },
           {
-            "id": "11eff117f2690f76",
+            "id": "c87148cd10edd7c3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,18 +137,18 @@
             }
           },
           {
-            "id": "4cf6987022e799a1",
+            "id": "770e5b92382ea10f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/General skills/01 - Lets Warm Up.md",
+                "file": "picoCTF/General skills/Actividades/20 - First Find.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 01 - Lets Warm Up"
+              "title": "Esquema de 20 - First Find"
             }
           }
         ]
@@ -211,47 +168,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1567fb5ac17b7b09",
+  "active": "e46afbd8a4383bac",
   "lastOpenFiles": [
-    "picoCTF/General skills/Tareas/07 - collaborative development.md",
-    "picoCTF/General skills/Tareas/08 - binary search.md",
-    "picoCTF/General skills/Tareas/09 - binhexa.md",
-    "picoCTF/General skills/Tareas/10 - ASCII Numbers.md",
-    "picoCTF/General skills/Actividades/01 - Lets Warm Up.md",
-    "Other (ignore)/Pasted image 20250221211451.png",
-    "picoCTF/General skills/Tareas/06 - blame game.md",
-    "picoCTF/General skills/Tareas/05 - time machine.md",
-    "picoCTF/General skills/Tareas/04 - committee issue.md",
-    "picoCTF/General skills/Tareas/03 - Special.md",
-    "picoCTF/General skills/Tareas/02 - chrono.md",
-    "picoCTF/General skills/Tareas/01 - Permissions.md",
-    "picoCTF/General skills/Actividades/02 - 2Warm.md",
-    "Other (ignore)/00 - Template.md",
-    "Other (ignore)/Pasted image 20250212131343.png",
-    "picoCTF/General skills/Actividades/03 - Warmed up.md",
-    "picoCTF/General skills/Actividades/04 - Bases.md",
-    "picoCTF/General skills/Actividades/18 - repetitions.md",
-    "picoCTF/General skills/Actividades/16 - Tab, Tab, Attack.md",
-    "picoCTF/README.md",
-    "Other (ignore)",
-    "picoCTF/General skills/Tareas",
+    "picoCTF/General skills/Actividades/35 - picobrowser.md",
+    "picoCTF/General skills/Actividades/33 - logon.md",
+    "picoCTF/General skills/Actividades/34 - dont-use-client-side.md",
+    "picoCTF/General skills/Actividades/36 - Client-side-again.md",
+    "picoCTF/General skills/Actividades/32 - where are the robots.md",
+    "Pasted image 20250325172756.png",
+    "picoCTF/General skills/Actividades/31 - Insp3ct0r.md",
+    "Pasted image 20250325171951.png",
+    "Pasted image 20250325171922.png",
     "picoCTF/General skills/Actividades/30 - Serpentine.md",
-    "picoCTF/General skills/Actividades",
-    "picoCTF/General skills/Actividades/17 - Magikarp Ground Mission.md",
-    "picoCTF/General skills/Actividades/15 - Useless.md",
-    "picoCTF/General skills/Actividades/14 - Static ain't always noise.md",
-    "Other (ignore)/Pasted image 20250215184316.png",
-    "Other (ignore)/Pasted image 20250219205452.png",
+    "Pasted image 20250325171739.png",
+    "Captura desde 2025-03-24 13-18-28.png",
+    "Captura desde 2025-03-24 13-18-19.png",
+    "Captura desde 2025-03-24 13-17-27.png",
     "picoCTF/General skills/Actividades/29 - PW Crack 3.md",
-    "Other (ignore)/Pasted image 20250219204956.png",
-    "Other (ignore)/Pasted image 20250219204844.png",
     "picoCTF/General skills/Actividades/28 - PW Crack 2.md",
-    "picoCTF/General skills/Actividades/27 - PW Crack 1.md",
-    "Other (ignore)/Pasted image 20250219204511.png",
-    "Other (ignore)/Pasted image 20250219204256.png",
-    "Sin título.canvas",
-    "Other (ignore)/Pasted image 20250217131458.png",
-    "picoCTF/General skills",
-    "picoCTF"
+    "picoCTF/General skills/Actividades/20 - First Find.md"
   ]
 }
