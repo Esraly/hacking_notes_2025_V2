@@ -11,7 +11,7 @@ Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoc
 
 ### Solución:
 - **Estamos en busca de una de las cookies de la pagina, por lo cual usaremos un comando en consola.**
-```
+```bash
 C:\Users\estef>curl http://mercury.picoctf.net:29649/check -H "Cookie: name=1"
 <!DOCTYPE html>
 <html lang="en">
