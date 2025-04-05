@@ -4,107 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "56fea1d8b78da869",
+        "id": "30e035307b766836",
         "type": "tabs",
         "children": [
           {
-            "id": "e46afbd8a4383bac",
+            "id": "1139c72de55e0092",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web/Actividades/02 - where are the robots.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - where are the robots"
-            }
-          },
-          {
-            "id": "b33d2f6bc1cb76b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Web/Actividades/07 - GET aHEAD.md",
+                "file": "Other (ignore)/00 - Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - GET aHEAD"
-            }
-          },
-          {
-            "id": "47a9c5c4b2c15768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Web/Actividades/08 - Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 - Cookies"
-            }
-          },
-          {
-            "id": "7ae3dc099ca2f649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Web/Actividades/09 - Scavenger Hunt.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09 - Scavenger Hunt"
-            }
-          },
-          {
-            "id": "698991f097300c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Irish-Name-Repo 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - Irish-Name-Repo 1"
-            }
-          },
-          {
-            "id": "0aa93ed1c7e77e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - More SQLi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 - More SQLi"
-            }
-          },
-          {
-            "id": "cf504501590ec355",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Other (ignore)/Pasted image 20250331184931.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250331184931"
+              "title": "00 - Template"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,29 +170,38 @@
   },
   "active": "c455a675f60aef67",
   "lastOpenFiles": [
-    "picoCTF/Web/Actividades/12 - JaWT Scratchpad.md",
+    "Other (ignore)/Pasted image 20250404182515.png",
+    "picoCTF/Web/Actividades/WEB 4/16 - Most Cookies.md",
+    "Other (ignore)/Pasted image 20250404222522.png",
+    "picoCTF/Web/Actividades/WEB 4/15 - Trickster.md",
+    "picoCTF/Web/Actividades/WEB 4/14 - SOAP.md",
+    "Other (ignore)/Pasted image 20250404184137.png",
+    "Other (ignore)/Pasted image 20250404183051.png",
+    "picoCTF/Web/Actividades/WEB 4/13 - MatchTheRegex.md",
+    "Other (ignore)/00 - Template.md",
+    "picoCTF/Web/Actividades/WEB 3/12 - JaWT Scratchpad.md",
+    "picoCTF/Web/Actividades/WEB 3/10 - Irish-Name-Repo 1.md",
+    "picoCTF/Web/Actividades/WEB 2/07 - GET aHEAD.md",
+    "picoCTF/Web/Actividades/WEB 1/01 - Insp3ct0r.md",
+    "picoCTF/Web/Actividades/WEB 4",
+    "picoCTF/Web/Actividades/WEB 3",
+    "picoCTF/Web/Actividades/WEB 2",
+    "picoCTF/Web/Actividades/WEB 1",
+    "Other (ignore)/Pasted image 20250402121446.png",
+    "Other (ignore)/Pasted image 20250331184931.png",
     "Other (ignore)/Pasted image 20250331194132.png",
     "Other (ignore)/Pasted image 20250331193956.png",
     "Other (ignore)/Pasted image 20250331185342.png",
     "Other (ignore)/Pasted image 20250331185113.png",
-    "Other (ignore)/Pasted image 20250331184931.png",
-    "picoCTF/Web/Actividades/11 - More SQLi.md",
-    "picoCTF/Web/Actividades/09 - Scavenger Hunt.md",
-    "picoCTF/Web/Actividades/10 - Irish-Name-Repo 1.md",
-    "Other (ignore)/Pasted image 20250331121916.png",
+    "picoCTF/Web/Actividades/WEB 3/11 - More SQLi.md",
+    "picoCTF/Web/Actividades/WEB 2/09 - Scavenger Hunt.md",
     "picoCTF/README.md",
-    "Other (ignore)/Pasted image 20250331123908.png",
-    "Other (ignore)/Pasted image 20250331123803.png",
-    "Other (ignore)/Pasted image 20250331123614.png",
-    "picoCTF/Web/Actividades/08 - Cookies.md",
-    "Other (ignore)/Pasted image 20250331121942.png",
-    "picoCTF/Web/Actividades/01 - Insp3ct0r.md",
-    "picoCTF/Web/Actividades/07 - GET aHEAD.md",
-    "picoCTF/Web/Actividades/02 - where are the robots.md",
-    "picoCTF/Web/Actividades/06 - Client-side-again.md",
-    "picoCTF/Web/Actividades/05 - picobrowser.md",
-    "picoCTF/Web/Actividades/04 - dont-use-client-side.md",
-    "picoCTF/Web/Actividades/03 - logon.md",
+    "picoCTF/Web/Actividades/WEB 2/08 - Cookies.md",
+    "picoCTF/Web/Actividades/WEB 1/02 - where are the robots.md",
+    "picoCTF/Web/Actividades/WEB 1/06 - Client-side-again.md",
+    "picoCTF/Web/Actividades/WEB 1/05 - picobrowser.md",
+    "picoCTF/Web/Actividades/WEB 1/04 - dont-use-client-side.md",
+    "picoCTF/Web/Actividades/WEB 1/03 - logon.md",
     "picoCTF/Web/Actividades",
     "picoCTF/Web",
     "picoCTF/General skills/Actividades/30 - Serpentine.md",
