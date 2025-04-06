@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1139c72de55e0092",
+            "id": "1c817ef59c39a923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other (ignore)/00 - Template.md",
-                "mode": "source",
+                "file": "picoCTF/Web/Tareas/10 - WebDecode.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Template"
+              "title": "10 - WebDecode"
             }
           }
         ]
@@ -168,45 +168,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c455a675f60aef67",
+  "active": "1c817ef59c39a923",
   "lastOpenFiles": [
-    "Other (ignore)/Pasted image 20250404182515.png",
+    "Other (ignore)/Pasted image 20250405174924.png",
+    "picoCTF/Web/Tareas/10 - WebDecode.md",
+    "Other (ignore)/Pasted image 20250405175317.png",
+    "Other (ignore)/Pasted image 20250405175120.png",
+    "Other (ignore)/Pasted image 20250405170802.png",
+    "picoCTF/Web/Tareas/08 - SQLiLite.md",
+    "picoCTF/Web/Tareas/07 - Secrets.md",
+    "picoCTF/Web/Tareas/09 - Unminify.md",
+    "Other (ignore)/Pasted image 20250405173715.png",
+    "picoCTF/Web/Actividades/WEB 2/08 - Cookies.md",
+    "picoCTF/Web/Actividades/WEB 2/07 - GET aHEAD.md",
+    "Other (ignore)/Pasted image 20250405170959.png",
+    "picoCTF/Web/Actividades/WEB 3/11 - More SQLi.md",
+    "Other (ignore)/Pasted image 20250405163742.png",
+    "Other (ignore)/Pasted image 20250405164412.png",
+    "Other (ignore)/Pasted image 20250405164348.png",
+    "Other (ignore)/Pasted image 20250405164243.png",
+    "picoCTF/Web/Tareas/06 - Roboto Sans.md",
+    "picoCTF/Web/Tareas/05 - Power Cookie.md",
+    "picoCTF/Web/Actividades/WEB 3/12 - JaWT Scratchpad.md",
+    "picoCTF/Web/Tareas/04 - Local Authority.md",
+    "picoCTF/Web/Tareas/02 - Inspect HTML.md",
+    "picoCTF/Web/Tareas/03 - IntroToBurp.md",
+    "picoCTF/Web/Tareas/01 - Includes.md",
+    "Other (ignore)/00 - Template.md",
+    "picoCTF/Web/Tareas",
+    "picoCTF/Tareas 1",
+    "picoCTF/General skills/Tareas 1",
+    "Tareas",
     "picoCTF/Web/Actividades/WEB 4/16 - Most Cookies.md",
-    "Other (ignore)/Pasted image 20250404222522.png",
     "picoCTF/Web/Actividades/WEB 4/15 - Trickster.md",
     "picoCTF/Web/Actividades/WEB 4/14 - SOAP.md",
-    "Other (ignore)/Pasted image 20250404184137.png",
-    "Other (ignore)/Pasted image 20250404183051.png",
     "picoCTF/Web/Actividades/WEB 4/13 - MatchTheRegex.md",
-    "Other (ignore)/00 - Template.md",
-    "picoCTF/Web/Actividades/WEB 3/12 - JaWT Scratchpad.md",
     "picoCTF/Web/Actividades/WEB 3/10 - Irish-Name-Repo 1.md",
-    "picoCTF/Web/Actividades/WEB 2/07 - GET aHEAD.md",
     "picoCTF/Web/Actividades/WEB 1/01 - Insp3ct0r.md",
     "picoCTF/Web/Actividades/WEB 4",
     "picoCTF/Web/Actividades/WEB 3",
     "picoCTF/Web/Actividades/WEB 2",
     "picoCTF/Web/Actividades/WEB 1",
-    "Other (ignore)/Pasted image 20250402121446.png",
-    "Other (ignore)/Pasted image 20250331184931.png",
-    "Other (ignore)/Pasted image 20250331194132.png",
-    "Other (ignore)/Pasted image 20250331193956.png",
-    "Other (ignore)/Pasted image 20250331185342.png",
-    "Other (ignore)/Pasted image 20250331185113.png",
-    "picoCTF/Web/Actividades/WEB 3/11 - More SQLi.md",
     "picoCTF/Web/Actividades/WEB 2/09 - Scavenger Hunt.md",
     "picoCTF/README.md",
-    "picoCTF/Web/Actividades/WEB 2/08 - Cookies.md",
     "picoCTF/Web/Actividades/WEB 1/02 - where are the robots.md",
     "picoCTF/Web/Actividades/WEB 1/06 - Client-side-again.md",
-    "picoCTF/Web/Actividades/WEB 1/05 - picobrowser.md",
-    "picoCTF/Web/Actividades/WEB 1/04 - dont-use-client-side.md",
-    "picoCTF/Web/Actividades/WEB 1/03 - logon.md",
     "picoCTF/Web/Actividades",
-    "picoCTF/Web",
-    "picoCTF/General skills/Actividades/30 - Serpentine.md",
-    "picoCTF/General skills/Actividades/29 - PW Crack 3.md",
-    "picoCTF/General skills/Actividades/28 - PW Crack 2.md",
-    "picoCTF/General skills/Actividades/20 - First Find.md"
+    "picoCTF/Web"
   ]
 }
