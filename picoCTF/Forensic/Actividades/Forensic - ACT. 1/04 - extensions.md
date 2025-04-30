@@ -49,7 +49,7 @@ estefania@estefania-IdeaPad-3-14ALC6:~/Descargas/FSI/picoCTF/Forensic$ xxd -l 20
 estefania@estefania-IdeaPad-3-14ALC6:~/Descargas/FSI/picoCTF/Forensic$ mv flag.txt flag.png 
 ```
 - **Y finalmente obtendremos la bandera mediante una imagen PNG, la cual tendremos que transcribir.**
-![[flag.png]]
+![[flag 1.png]]
 ### Bandera:
 ```
 picoCTF{now_you_know_about_extensions}
