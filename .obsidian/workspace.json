@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6eaecbdfd3f9703c",
+        "id": "74b7c27ff56576a8",
         "type": "tabs",
         "children": [
           {
-            "id": "2699d35f4b698a1e",
+            "id": "4978d36d13b1c300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic/Actividades/Forensic -ACT. 2/01 - m00nwalk.md",
+                "file": "picoCTF/Forensic/Actividades/Forensic - ACT. 3/05 - MacroHard WeakEdge.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - m00nwalk"
+              "title": "05 - MacroHard WeakEdge"
             }
           }
         ]
@@ -168,14 +168,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2699d35f4b698a1e",
+  "active": "4978d36d13b1c300",
   "lastOpenFiles": [
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2/05 - shark on wire 2.md",
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2/04 - like1000.md",
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2/03 - c0rrupt.md",
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2/02 - WhitePages.md",
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2/01 - m00nwalk.md",
-    "picoCTF/Forensic/Actividades/Forensic -ACT. 2",
+    "Other (ignore)/Pasted image 20250506180128.png",
+    "Other (ignore)/Pasted image 20250506182813.png",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3/04 - tunn3l v1s10n.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3/03 - Matryoshka doll.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3/02 - WebNet1.md",
+    "Other (ignore)/Pasted image 20250506180636.png",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3/01 - WebNet0.md",
+    "Other (ignore)/Pasted image 20250505122210.png",
+    "Other (ignore)/Pasted image 20250505130659.png",
+    "Other (ignore)/Pasted image 20250505122307.png",
+    "flag.bmp",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3/05 - MacroHard WeakEdge.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2/01 - m00nwalk.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 3",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2/05 - shark on wire 2.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2/04 - like1000.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2/03 - c0rrupt.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2/02 - WhitePages.md",
+    "picoCTF/Forensic/Actividades/Forensic - ACT. 2",
     "Other (ignore)/flag 1.png",
     "picoCTF/1er examen parcial/Segunda parte - Web/7.- Java Code Analysis!?!.md",
     "picoCTF/1er examen parcial/Equipo dinamita.md",
@@ -186,11 +199,6 @@
     "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415192723.png",
     "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250413195606.png",
     "picoCTF/1er examen parcial/IMG_EXAM",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415174521.png",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415192234.png",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415192128.png",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415192041.png",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415191326.png",
     "picoCTF/1er examen parcial/Segunda parte - Web/10.- WebSockFish.md",
     "picoCTF/1er examen parcial/Segunda parte - Web/9.- SSTI2.md",
     "picoCTF/1er examen parcial/Segunda parte - Web/6.- findme.md",
@@ -198,22 +206,14 @@
     "picoCTF/1er examen parcial/Segunda parte - Web/4.- n0s4n1ty 1.md",
     "picoCTF/1er examen parcial/Segunda parte - Web/3.- head-dump.md",
     "picoCTF/1er examen parcial/Segunda parte - Web/1.- Bookmarklet.md",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415174527.png",
     "picoCTF/1er examen parcial/Primera parte - General Skills/10.- Specialer.md",
     "picoCTF/1er examen parcial/Primera parte - General Skills/9.- SansAlpha.md",
-    "picoCTF/1er examen parcial/Primera parte - General Skills/8.- flag_shop.md",
-    "picoCTF/1er examen parcial/Primera parte - General Skills/7.- dont-you-love-banners.md",
-    "picoCTF/1er examen parcial/Primera parte - General Skills/6.- Rust fixme 3.md",
-    "picoCTF/1er examen parcial/Primera parte - General Skills/5.- Rust fixme 2.md",
-    "Other (ignore)/00 - Template.md",
-    "picoCTF/1er examen parcial/IMG_EXAM/Pasted image 20250415133440.png",
     "picoCTF/1er examen parcial.zip",
     "picoCTF/1er examen parcial/Segunda parte - Web",
     "picoCTF/1er examen parcial/Primera parte - General Skills",
     "picoCTF/1er examen parcial",
     "picoCTF/Forensic/Actividades/Forensic - ACT. 1",
     "picoCTF/Forensic/flag.txt",
-    "picoCTF/Forensic/extensions",
-    "picoCTF/Forensic/capture.pcap"
+    "picoCTF/Forensic/extensions"
   ]
 }
