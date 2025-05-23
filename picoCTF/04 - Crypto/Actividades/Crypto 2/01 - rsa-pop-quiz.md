@@ -128,7 +128,7 @@ print(r.recvall().decode())
 
 flag = bytes.fromhex(hex(m)[2:]).decode()
 ```
-- **El cual basicamente hará los cálculos automáticamente y responderá por nosotros, sin tardar como lo haríamos si fuera manual. **
+- **El cual basicamente hará los cálculos automáticamente y responderá por nosotros, sin tardar como lo haríamos si fuera manual.**
 - **Ejecutamos el archivo, y nos dará la bandera.**
 ```bash
 ┌──(kali㉿kali)-[~]

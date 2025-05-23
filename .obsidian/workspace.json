@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "396fba8bf9f209d9",
+        "id": "895665555622deb7",
         "type": "tabs",
         "children": [
           {
-            "id": "bee7f3f0d16b96d6",
+            "id": "c63c107d31147325",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/04 - Crypto/Actividades/Crypto 1/08 - interencdec.md",
-                "mode": "source",
+                "file": "picoCTF/04 - Crypto/Actividades/Crypto 3/01 - Mini RSA.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - interencdec"
-            }
-          },
-          {
-            "id": "4f712ca112af7c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/04 - Crypto/Actividades/Crypto 2/01 - rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - rsa-pop-quiz"
+              "title": "01 - Mini RSA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +168,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4f712ca112af7c33",
+  "active": "c63c107d31147325",
   "lastOpenFiles": [
+    "picoCTF/04 - Crypto/Actividades/Crypto 3/02 - Mind your Ps and Qs.md",
+    "picoCTF/04 - Crypto/Actividades/Crypto 3/03 - b00tl3gRSA2.md",
+    "picoCTF/04 - Crypto/Actividades/Crypto 3/04 -  b00tl3gRSA3.md",
+    "picoCTF/04 - Crypto/Actividades/Crypto 2/01 - rsa-pop-quiz.md",
+    "picoCTF/04 - Crypto/Actividades/Crypto 3/01 - Mini RSA.md",
+    "picoCTF/04 - Crypto/Actividades/Crypto 3",
     "picoCTF/04 - Crypto/Actividades/Crypto 2",
     "picoCTF/04 - Crypto/Actividades/Crypto 1/08 - interencdec.md",
-    "picoCTF/04 - Crypto/Actividades/Crypto 2/01 - rsa-pop-quiz.md",
     "picoCTF/04 - Crypto/Actividades/Crypto 1/07 - waves over lambda.md",
     "picoCTF/04 - Crypto/Actividades/Crypto 1/06  - Tapping.md",
     "Other (ignore)/Pasted image 20250512203334.png",
@@ -220,16 +210,11 @@
     "picoCTF/03 - Forensic/Tareas/06 - CanYouSee.md",
     "picoCTF/03 - Forensic/Tareas/02 - St3g0.md",
     "picoCTF/03 - Forensic/Tareas/05 - Scan Surprise.md",
-    "picoCTF/03 - Forensic/Tareas/04 - hideme.md",
-    "picoCTF/03 - Forensic/Tareas/03 - Redaction gone wrong.md",
     "Other (ignore)/Pasted image 20250510160144.png",
-    "picoCTF/03 - Forensic/Actividades/Forensic - ACT. 4/01 - Milkslap.md",
     "picoCTF/01 - General skills/Actividades/General Skills 3",
     "picoCTF/01 - General skills/Actividades/General Skills 2",
     "picoCTF/01 - General skills/Actividades/General Skills 1",
     "picoCTF/Examenes",
-    "picoCTF/03 - Forensic/Tareas",
-    "picoCTF/03 - Forensic/Actividades/Forensic - ACT. 4",
     "Other (ignore)/Pasted image 20250506180128.png"
   ]
 }
